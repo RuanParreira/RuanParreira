@@ -20,3 +20,8 @@ Olá! Me chamo Ruan e sou estudante de Sistemas de Informação e desenvolvedor 
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake.svg" />
+</picture>
