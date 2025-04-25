@@ -15,7 +15,7 @@ Olá! Me chamo Ruan e sou estudante de Sistemas de Informação e desenvolvedor 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RuanParreira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&locale=pt-br" height="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&locale=pt-br" height="200"/>
 </p>
 
