@@ -1,4 +1,4 @@
-# Ruan Parreira
+# 👨‍💻 Ruan Parreira
 
 **`Desenvolvedor FullStack`**
 
