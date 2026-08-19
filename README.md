@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ruan%20Parreira&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20FullStack&descAlignY=55&descSize=18" alt="header banner" />
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Ruan%20Parreira&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20FullStack&descAlignY=55&descSize=18" alt="header banner" /></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Web+Full+Stack;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="typing animation" />
@@ -83,4 +83,4 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
   <img alt="github-snake" src="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake.svg" width="100%" />
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" /></a>
