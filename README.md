@@ -62,21 +62,6 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
 </tr>
 </table>
 
-## 📊 Estatísticas
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=default&hide_border=true&count_private=true" />
-    <img alt="stats overview" src="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=dark&hide_border=true&count_private=true" height="200" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=dark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=default&hide_border=true" />
-    <img alt="languages breakdown" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=dark&hide_border=true" height="200" />
-  </picture>
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanParreira/RuanParreira/output/github-snake.svg" />
