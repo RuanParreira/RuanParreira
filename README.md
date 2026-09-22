@@ -66,14 +66,14 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/overview-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/overview.svg" />
-    <img alt="stats overview" src="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/overview.svg" height="200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=default&hide_border=true&count_private=true" />
+    <img alt="stats overview" src="https://github-readme-stats.vercel.app/api?username=RuanParreira&show_icons=true&theme=dark&hide_border=true&count_private=true" height="200" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/languages.svg" />
-    <img alt="languages breakdown" src="https://raw.githubusercontent.com/RuanParreira/github-stats/generated/languages.svg" height="200" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=default&hide_border=true" />
+    <img alt="languages breakdown" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanParreira&layout=compact&theme=dark&hide_border=true" height="200" />
   </picture>
 </div>
 
