@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Web+Full+Stack;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="typing animation" />
 </p>
 
-Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full stack, com foco em boas práticas, qualidade e experiência do usuário. Este repositório reúne projetos acadêmicos, estudos independentes e iniciativas pessoais.
+Olá! Sou o Ruan 👋 Desenvolvedor Full Stack Júnior com foco em **Laravel** e **React**, no último período de Sistemas de Informação na Uniube. Gosto de resolver problemas reais com código: criei o [HeyCaixa](https://heycaixa.com.br/home), um SaaS de PDV em produção, e o DavidServices, sistema de ordens de serviço usado no dia a dia da assistência técnica onde trabalhei. 🌐 Portfólio: [ruanparreira.com.br](https://ruanparreira.com.br)
 
 <p align="center">
   <a href="https://instagram.com/ruan.parreira"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
@@ -13,6 +13,16 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
 </p>
 
 <br>
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**HeyCaixa**](https://heycaixa.com.br/home) | SaaS de frente de caixa em produção: multiempresa, PDV com atalhos de teclado, 2FA e 700+ testes automatizados *(código privado)* | Laravel 12 · Livewire · MySQL |
+| [**Mais Patinhas**](https://github.com/RuanParreira/maispatinhas-tcc) | TCC em equipe: plataforma de adoção, doação e busca de animais perdidos, com back-end e front-end desacoplados | Laravel 13 · Sanctum · React · Docker |
+| [**DavidServices**](https://github.com/RuanParreira/DavidServices) | Sistema de ordens de serviço usado no dia a dia de uma assistência técnica | PHP |
+| [**The Batman**](https://ruanparreira.github.io/batman-website/) | Experiência 3D guiada por scroll (projeto autoral de estudo) | React · Three.js · GSAP |
+| [**André — Fotógrafo**](https://ruanparreira.github.io/andre-photographer-showcase/) | Portfólio de fotografia com câmera 3D carregada sob demanda | Three.js · GSAP |
 
 ## 💻 Stack
 
@@ -26,6 +36,8 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![AlpineJS](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -48,6 +60,7 @@ Olá! Sou o Ruan 👋 Estudante de Sistemas de Informação e desenvolvedor full
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat-square&logo=github&logoColor=white)
 
 </td>
